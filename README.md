@@ -1,0 +1,1 @@
+The dataset provides a comprehensive overview of customer interactions with an online retail store. We aim to predict customer churn based on various behavioral and demographic features using Classification Algorithms viz. K-Nearest Neighbours(KNN), Logistic Regression, Decision Tree Classifier and Random Forest Classifier.
